@@ -53,3 +53,26 @@ It also serves as a foundation for more advanced computer vision experiments, su
 Install all dependencies using the following command:
 
 pip install -r requirements.txt
+
+## output
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/your-content-image-url.png" width="250"/><br>
+        <strong>Content Image</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/your-style-image-url.png" width="250"/><br>
+        <strong>Style Image</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/your-output-image-url.png" width="250"/><br>
+        <strong>Stylized Image</strong>
+      </td>
+    </tr>
+  </table>
+
+</div>
