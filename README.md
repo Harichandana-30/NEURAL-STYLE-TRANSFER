@@ -61,15 +61,15 @@ pip install -r requirements.txt
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/your-content-image-url.png" width="250"/><br>
+        <img src="https://github.com/user-attachments/assets/817d52ce-b3b0-493f-b543-da98f79f35e5" width="250"/><br>
         <strong>Content Image</strong>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/your-style-image-url.png" width="250"/><br>
+        <img src="https://github.com/user-attachments/assets/279988c1-3bba-47ac-baa9-14fca1f8890d" width="250"/><br>
         <strong>Style Image</strong>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/your-output-image-url.png" width="250"/><br>
+        <img src="https://github.com/user-attachments/assets/d58fcd00-4bf2-4ca6-89c9-30dd2ab90e1c" width="250"/><br>
         <strong>Stylized Image</strong>
       </td>
     </tr>
